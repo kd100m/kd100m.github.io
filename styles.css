@@ -22,6 +22,14 @@ p {
   border: 4px solid powderblue;
   
 form {
+  display: block;
+  color: black;
+  text-align: center;
+  border: 4px solid powderblue;
+  }
+  
+ input {
+    display: block;
   color: black;
   text-align: center;
   border: 4px solid powderblue;
